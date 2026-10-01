@@ -8,4 +8,4 @@ web development // app development // or anything else...
 
 i wanna build things for people to use and also look cool...(i love design!)
 
-[LinkedIn](www.linkedin.com/in/bharath-eati "i post what i build and all...") | [email](bharathpramodheati@gmail.com "if in case u wanna contact me...")
+[LinkedIn](www.linkedin.com/in/bharath-eati "i post what i build and all...") | [email]<bharathpramodheati@gmail.com "if in case u wanna contact me...">
