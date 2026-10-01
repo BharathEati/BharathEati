@@ -7,4 +7,4 @@ web development // app development // or anything else...
 
 i want to build things for people's good and also look cool...(i love design!)
 
-[LinkedIn](www.linkedin.com/in/bharath-eati"i post what i build and all...")
+[LinkedIn](www.linkedin.com/in/bharath-eati "i post what i build and all...")
