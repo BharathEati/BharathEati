@@ -1,7 +1,7 @@
 hi! i'm bharath-eati >_
 ✌🏻
 
-<img width="787" height="572" alt="image" src="https://github.com/user-attachments/assets/5c874dac-14b1-490a-8d24-790782388be6" />
+<img width="587" height="372" alt="image" src="https://github.com/user-attachments/assets/5c874dac-14b1-490a-8d24-790782388be6" />
 
 
 web development // app development // or anything else...
